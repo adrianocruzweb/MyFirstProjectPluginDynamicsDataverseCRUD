@@ -201,8 +201,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
-    <Compile Include="ProjecISpace\Conexao.cs" />
-    <Compile Include="ProjecISpace\MyFirstClass.cs" />
+    <Compile Include="ProjecISpace\Model\ConexaoModel.cs" />
+    <Compile Include="ProjecISpace\Model\EntityDataverse.cs" />
+    <Compile Include="ProjecISpace\Something\MyFirstClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -8,7 +8,7 @@ using DotNetEnv;
 
 namespace MyFirstProjectPlugin.ProjecISpace
 {
-    public class Conexao
+    public class ConexaoModel
     {
         private static CrmServiceClient crmServiceClientTreinamento;
 
